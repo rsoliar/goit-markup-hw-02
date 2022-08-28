@@ -14,7 +14,10 @@
 .link,
 .page-logo,
 .portfolio-link,
-.location {
+.location,
+.header-contacts,
+.nav-link,
+.footer-econtacts {
   text-decoration: none;
   cursor: pointer;
 }
